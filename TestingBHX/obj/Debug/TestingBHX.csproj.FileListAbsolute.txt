@@ -1,0 +1,38 @@
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\TestingBHX.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\TestingBHX.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\BLL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\DAL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\BLL.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\DAL.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\DAL.dll.config
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.csprojAssemblyReference.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.csproj.CoreCompileInputs.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.csproj.CopyComplete
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\TestingBHX.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\TestingBHX.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\bin\Debug\DAL.dll.config
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.csproj.CopyComplete
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\TestingBHX\obj\Debug\TestingBHX.pdb

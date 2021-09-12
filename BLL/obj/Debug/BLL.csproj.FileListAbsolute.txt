@@ -1,0 +1,30 @@
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\BLL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\BLL.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.dll.config
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\BLL.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\BLL.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\bin\Debug\DAL.dll.config
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BLL\obj\Debug\BLL.pdb

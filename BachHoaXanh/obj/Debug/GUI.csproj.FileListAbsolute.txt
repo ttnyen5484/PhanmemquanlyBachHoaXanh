@@ -1,0 +1,220 @@
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.exe.config
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.exe
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BLL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ThuVien.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BLL.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ThuVien.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.dll.config
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDangNhapQL.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmBanHang.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDangNhap.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDoanhThu.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmLayMaPN.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmMain.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmMaPNDoiTra.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmNhanVien.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmPhieuNhap.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmQLGia.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmQLNhanVien.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmSanPham.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmSanPhamHuy.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.Properties.Resources.resources
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.CopyComplete
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.exe
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.exe.config
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.exe
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BLL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ThuVien.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BLL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ThuVien.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.dll.config
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDangNhapQL.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmBanHang.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDangNhap.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDoanhThu.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmLayMaPN.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmMain.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmMaPNDoiTra.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmNhanVien.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmPhieuNhap.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmQLGia.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmQLNhanVien.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmSanPham.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmSanPhamHuy.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.Properties.Resources.resources
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.exe
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.pdb
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Data.v17.1.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Utils.v17.1.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Data.v17.1.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Utils.v17.1.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.exe.licenses
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.Shared.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ShockwaveFlashObjects.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\stdole.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Nam 4\Công nghệ phần mềm\DoanketThucMon\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmInHoaDon.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.exe.config
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.exe
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BachHoaXanh.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\AxShockwaveFlashObjects.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BLL.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.Shared.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Data.v21.1.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.RichEdit.v21.1.Export.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ThuVien.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ShockwaveFlashObjects.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\stdole.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\BLL.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ThuVien.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Data.v21.1.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.pdb
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DAL.dll.config
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDangNhapQL.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmBanHang.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDangNhap.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmDoanhThu.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmInHoaDon.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmLayMaPN.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmMain.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmNhanVien.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmPhieuNhap.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmQLGia.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmQLNhanVien.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmSanPham.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.frmSanPhamHuy.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.Properties.Resources.resources
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.exe.licenses
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\GUI.csproj.CopyComplete
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.exe
+D:\HK6\CongNghePhanMem\FormBachHoaXanh\BachHoaXanh\BachHoaXanh\obj\Debug\BachHoaXanh.pdb

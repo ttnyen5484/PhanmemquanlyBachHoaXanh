@@ -1,0 +1,16 @@
+E:\Nam 4\Công nghệ phần mềm\FormBachHoaXanh\BachHoaXanh\ThuVien\bin\Debug\ThuVien.dll
+E:\Nam 4\Công nghệ phần mềm\FormBachHoaXanh\BachHoaXanh\ThuVien\bin\Debug\ThuVien.pdb
+E:\Nam 4\Công nghệ phần mềm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+E:\Nam 4\Công nghệ phần mềm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.dll
+E:\Nam 4\Công nghệ phần mềm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.pdb
+E:\Nam 4\Công nghệ phần mềm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\ThuVien\bin\Debug\ThuVien.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\ThuVien\bin\Debug\ThuVien.pdb
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.dll
+C:\Users\ASUS\Downloads\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.pdb
+D:\HK6\DoAn\WinForm\FormBachHoaXanh\BachHoaXanh\ThuVien\bin\Debug\ThuVien.dll
+D:\HK6\DoAn\WinForm\FormBachHoaXanh\BachHoaXanh\ThuVien\bin\Debug\ThuVien.pdb
+D:\HK6\DoAn\WinForm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+D:\HK6\DoAn\WinForm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.dll
+D:\HK6\DoAn\WinForm\FormBachHoaXanh\BachHoaXanh\ThuVien\obj\Debug\ThuVien.pdb
